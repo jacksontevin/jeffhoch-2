@@ -1,0 +1,9 @@
+{
+  "port": "4002",
+  "name": "microservice",
+  "log_level": "debug",
+  "log_output": "stdout",
+  "mongodb_config": "mongodb+srv://eb_property:aNLCK9TI9AILr9EE@cluster0.lkend.mongodb.net/building_finder",
+  "service_base_url": "http://localhost:4001",
+  "seed_database": true
+}
